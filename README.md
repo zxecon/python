@@ -1,5 +1,9 @@
 ## Python/Jupyter
 
+>Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition
+
+>Visual Studio Code w/ Jupyter Environment
+
 * ### July Updates: Jupyter Not Working through Anaconda Under Mac OS Catalina Beta Version:
 
 Installing Jupyter with pip; then open Jupyter notebook through Terminal/ working under vscode with respected interpreter
