@@ -6,7 +6,9 @@ Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edi
 Visual Studio Code w/ Jupyter Environment
 '''
 
-#2.2 
+#####
+#2.2#
+#####
 
 #%%
 pip install numpy
@@ -52,3 +54,7 @@ pip install matplotlib #if matplotlib is not installed
 import matplotlib.pyplot as plt 
 plt.plot(np.random.randn(50).cumsum())
 
+
+#####
+#2.3#
+#####
