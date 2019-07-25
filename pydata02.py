@@ -65,5 +65,26 @@ for x in array:
         less.append(x)
     else:
         greater.append(x)
-        
+
+#%%
+a = [1, 2, 3]
+b = a
+a.append(4)
+b
+
+#%%
+a = 5
+type(a)
+b = "foo"
+type(b)
+
+#%%
+if x < 0:
+    print('It's negative')
+elif x == 0:
+    print('Equal to zero')
+elif 0 < x < 5:
+    print('Positive but smaller than 5')
+else:
+    print('Positive and larger than or equal to 5')
 
