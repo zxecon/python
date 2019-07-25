@@ -16,6 +16,7 @@ import numpy as np
 data = {i : np.random.randn() for i in range(7)}
 data
 
+#Introspection
 #%%
 b = [1, 2, 3]
 b?
@@ -37,4 +38,17 @@ result = f(a, b, c)
 '''
 #%run ipython_script_test.py
 
+#Magic Commands
+#%%
+a = np.random.randn(100, 100)
+%timeit np.dot(a, a)
+
+#Matplotlib
+#%%
+pip install matplotlib #if matplotlib is not installed
+
+#%%
+%matplotlib inline
+import matplotlib.pyplot as plt 
+plt.plot(np.random.randn(50).cumsum())
 
