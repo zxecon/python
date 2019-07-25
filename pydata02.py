@@ -1,8 +1,10 @@
 ################################################
 #python for data analysis study codes and notes#
 ################################################
-
-
+'''
+Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition
+Visual Studio Code w/ Jupyter Environment
+'''
 
 #2.1
 #%%
