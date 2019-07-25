@@ -12,6 +12,6 @@ It will promote to Jupyter Notebook in your web browser.
 
 VS code can be used after select repected interpreter and begin using #%% comment as following
 
-![vsjupyter](https://raw.githubusercontent.com/zxecon/study/master/vsjupyter.png)
+![vsjupyter](https://github.com/zxecon/python/blob/master/vsjupyter.png)
 
 References: [Install Jupyter](https://jupyter.org/install); [Working with Jupyter Notebooks in Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
