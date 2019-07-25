@@ -58,3 +58,12 @@ plt.plot(np.random.randn(50).cumsum())
 #####
 #2.3#
 #####
+
+#%%
+for x in array:
+    if x < pivot:
+        less.append(x)
+    else:
+        greater.append(x)
+        
+
