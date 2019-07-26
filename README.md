@@ -4,7 +4,7 @@
 
 >Visual Studio Code w/ Jupyter Environment
 
-* ### July Updates: Jupyter Not Working through Anaconda Under Mac OS Catalina Beta Version:
+* ### July 2019 Updates: Jupyter Not Working through Anaconda Under Mac OS Catalina Beta Version:
 
 Installing Jupyter with pip; then open Jupyter notebook through Terminal/ working under vscode with respected interpreter
 
