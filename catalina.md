@@ -15,7 +15,7 @@ jupyter notebook
 ```
 It will promote to Jupyter Notebook in your web browser.
 
-VS code can be used after select repected interpreter and begin using #%% comment as following
+VS code can be used after select repected interpreter and you can begin using #%% comment as following
 
 ![vsjupyter](https://github.com/zxecon/python/blob/master/vsjupyter.png)
 
