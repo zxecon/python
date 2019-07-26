@@ -7,7 +7,7 @@ which appeared as following under beta system:
 
 Following is a way that I used to solve this issue (if you installed the Mac OS beta version on all of your PCs like me and still need to learn/use):
 
-Installing Jupyter with pip; then open Jupyter notebook through Terminal/ working under vscode with respected interpreter
+In Terminal, install Jupyter with pip; then open Jupyter notebook through Terminal/ working under vscode with respected interpreter
 
 ```
 pip3 install jupyter
