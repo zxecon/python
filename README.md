@@ -6,8 +6,7 @@
 
 * ### July 2019 Updates: Jupyter Not Working through Anaconda Under Mac OS Catalina Beta Version:
 
-If you are using Mac OS Catalina Beta Vesion released in June 2019, you might probably have difficult in opening Anaconda, 
-which appeared as following under beta system:
+If you are using Mac OS Catalina Beta Version released in June 2019, you might probably have difficulty in opening Anaconda, which appeared as follows under beta system:
 
 ![?conda](https://github.com/zxecon/python/blob/master/conda.png)
 
