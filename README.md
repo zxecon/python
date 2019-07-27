@@ -12,7 +12,7 @@ If you are using Mac OS Catalina Beta Version released in June 2019, you might p
 
 Following is a way that I used to solve this issue (if you installed the Mac OS beta version on all of your PCs like me and still need to learn/use):
 
-In Terminal, install Jupyter with pip; then open Jupyter notebook through Terminal/ working under vscode with respected interpreter
+In Terminal, install Jupyter with pip; then open Jupyter notebook through Terminal/ working under vscode with respect interpreter
 
 ```
 pip3 install jupyter
