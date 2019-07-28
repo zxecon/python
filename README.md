@@ -8,7 +8,7 @@
 
 If you are using Mac OS Catalina Beta Version released in June 2019, you might probably have difficulty in opening Anaconda, which appeared as follows under beta system:
 
-![?conda](https://github.com/zxecon/python/blob/master/conda.png)
+![conda](https://github.com/zxecon/python/blob/master/conda.png)
 
 Following is a way that I used to solve this issue (if you installed the Mac OS beta version on all of your PCs like me and still need to learn/use):
 
